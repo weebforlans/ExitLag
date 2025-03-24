@@ -37,6 +37,7 @@ install and start ===> enjoy
 
 ### Demo
  splashscreen 
+![image](https://github.com/user-attachments/assets/2f349c5d-c03c-463c-8635-85f0370ee7c7)
 
 
 

@@ -48,7 +48,7 @@ because the program is not signed i invite you to click on additional informatio
 
 
 #if ExitLag dont execute send me ur Winver u can get it when you write "winver" in your search bar !
- if u get any error add my discord i will help u to fix it @sike.exe.
+ if u get any error add my discord i will help u to fix it @lsike
 
 
 
